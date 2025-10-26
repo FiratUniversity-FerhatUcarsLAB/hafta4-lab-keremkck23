@@ -64,7 +64,10 @@ public class GeometrikHesap {
 
         System.out.println();
         System.out.printf("Hacim      : %.2f ",hacim);
+        
+        //Sistemi Kapatma
         input.close();
+        
 
 
 
