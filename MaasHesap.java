@@ -1,7 +1,7 @@
 /*
  * Ad Soyad: [Mehmet Kerem Küçük]
  * Ogrenci No: [250541097]
- * Tarih: [02.11.20025]
+ * Tarih: [02.11.2025]
  * Aciklama: Gorev 3 - Maaş Hesabı
 
    
